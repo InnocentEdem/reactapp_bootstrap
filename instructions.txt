@@ -1,0 +1,9 @@
+*Modify TodoItem to take and display a prop that contains a string, which would be the todo entered by the user.
+
+*In Todos Component, create a text input with a button to allow the user to enter a todo
+
+*The button should have the text save
+
+*On clicking save, add the entered todo to the list of todos
+
+*Display the numbered list of todos under the input element.
